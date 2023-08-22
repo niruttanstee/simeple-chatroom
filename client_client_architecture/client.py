@@ -4,7 +4,7 @@ import sys
 
 
 alias = input("Enter alias: ")
-host = "127.0.0.1"
+host = "139.59.198.251"
 port = 21004
 
 client_socket = socket.socket()
